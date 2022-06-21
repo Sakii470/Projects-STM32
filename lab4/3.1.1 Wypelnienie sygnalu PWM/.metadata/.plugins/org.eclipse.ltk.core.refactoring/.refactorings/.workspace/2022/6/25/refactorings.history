@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BasicTimersAndConverters&apos; to &apos;Wypelnienie_PWM&apos;" description="Rename resource &apos;BasicTimersAndConverters&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/BasicTimersAndConverters" name="Wypelnienie_PWM" stamp="1655746239904" updateReferences="true"/>
+</session>

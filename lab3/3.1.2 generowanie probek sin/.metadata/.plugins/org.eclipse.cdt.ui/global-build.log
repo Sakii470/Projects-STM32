@@ -1,0 +1,40 @@
+19:14:18 **** Incremental Build of configuration DebugFLASH for project generowanie_sin ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32L496xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:253:19: warning: implicit declaration of function 'sin' [-Wimplicit-function-declaration]
+  253 |     float wynik = sin(kat);
+      |                   ^~~
+../Core/Src/main.c:253:19: warning: incompatible implicit declaration of built-in function 'sin'
+../Core/Src/main.c:33:1: note: include '<math.h>' or provide a declaration of 'sin'
+   32 | #include <stdio.h>
+  +++ |+#include <math.h>
+   33 | /* USER CODE END Includes */
+arm-none-eabi-gcc -o "generowanie_sin.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\MSI PC\OneDrive\Pulpit\projekty STM\lab3\3.1.2 generowanie probek sin\generowanie_sin\STM32L496ZGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="generowanie_sin.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -u _printf_float -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: generowanie_sin.elf
+ 
+arm-none-eabi-size   generowanie_sin.elf 
+arm-none-eabi-objdump -h -S  generowanie_sin.elf  > "generowanie_sin.list"
+arm-none-eabi-objcopy  -O binary  generowanie_sin.elf  "generowanie_sin.bin"
+   text	   data	    bss	    dec	    hex	filename
+  38048	    488	   2048	  40584	   9e88	generowanie_sin.elf
+Finished building: default.size.stdout
+ 
+Finished building: generowanie_sin.bin
+ 
+Finished building: generowanie_sin.list
+ 
+19:14:29 **** Incremental Build of configuration DebugFLASH for project generowanie_sin ****
+make -j8 all 
+arm-none-eabi-size   generowanie_sin.elf 
+   text	   data	    bss	    dec	    hex	filename
+  38048	    488	   2048	  40584	   9e88	generowanie_sin.elf
+Finished building: default.size.stdout
+ 
+19:14:33 **** Incremental Build of configuration DebugFLASH for project generowanie_sin ****
+make -j8 all 
+arm-none-eabi-size   generowanie_sin.elf 
+   text	   data	    bss	    dec	    hex	filename
+  38048	    488	   2048	  40584	   9e88	generowanie_sin.elf
+Finished building: default.size.stdout
+ 

@@ -1,0 +1,18 @@
+!SESSION 2022-06-20 20:17:01.613 -----------------------------------------------
+eclipse.buildId=Version 1.8.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-06-20 20:17:15.468
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-06-20 20:17:15.523
+!MESSAGE Log4j initialized with config file C:\Users\MSI PC\OneDrive\Pulpit\projekty STM\lab4\3.2.1 konwersja dys-rzecz\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-06-20 20:17:22.363
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-20 20:17:41.868
+!MESSAGE Indexed 'BasicTimersAndConverters' (36 sources, 124 headers) in 4,46 sec: 12 967 declarations; 80 532 references; 3 unresolved inclusions; 46 syntax errors; 171 unresolved names (0,18%)

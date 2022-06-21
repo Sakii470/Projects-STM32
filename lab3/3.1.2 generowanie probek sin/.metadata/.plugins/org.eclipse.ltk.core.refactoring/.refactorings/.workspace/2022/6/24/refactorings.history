@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BasicInterfacesHAL&apos; to &apos;generowanie_sin&apos;" description="Rename resource &apos;BasicInterfacesHAL&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/BasicInterfacesHAL" name="generowanie_sin" stamp="1655658351194" updateReferences="true"/>
+</session>

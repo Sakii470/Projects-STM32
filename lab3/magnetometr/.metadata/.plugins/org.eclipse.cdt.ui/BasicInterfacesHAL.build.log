@@ -1,0 +1,10 @@
+22:33:02 **** Incremental Build of configuration DebugFLASH for project BasicInterfacesHAL ****
+make -j8 all 
+arm-none-eabi-size   BasicInterfacesHAL.elf 
+   text	   data	    bss	    dec	    hex	filename
+  20272	     88	   2016	  22376	   5768	BasicInterfacesHAL.elf
+Finished building: default.size.stdout
+ 
+
+22:33:02 Build Finished. 0 errors, 0 warnings. (took 421ms)
+

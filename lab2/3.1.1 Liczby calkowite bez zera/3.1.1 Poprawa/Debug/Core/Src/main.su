@@ -1,0 +1,8 @@
+main.c:78:6:SEG_SetSegment	16	static
+main.c:85:6:SEG_SetModule	16	static
+main.c:95:7:SEG_Mux	8	static
+main.c:110:6:HAL_SYSTICK_Callback	8	static
+main.c:118:6:SEG_DisplayDec	16	static
+main.c:137:5:main	16	static
+main.c:188:6:SystemClock_Config	96	static
+main.c:234:6:Error_Handler	4	static,ignoring_inline_asm

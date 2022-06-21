@@ -1,0 +1,10 @@
+16:20:31 **** Incremental Build of configuration Debug for project BasicProjectHAL ****
+make -j8 all 
+arm-none-eabi-size   BasicProjectHAL.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6604	     20	   1572	   8196	   2004	BasicProjectHAL.elf
+Finished building: default.size.stdout
+ 
+
+16:20:32 Build Finished. 0 errors, 0 warnings. (took 321ms)
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;diody/ExtendProjectHAL.ioc&apos; to &apos;diody.ioc&apos;" description="Rename resource &apos;ExtendProjectHAL.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="ExtendProjectHAL.ioc" name="diody.ioc" stamp="1655386917072" updateReferences="true"/>
+</session>

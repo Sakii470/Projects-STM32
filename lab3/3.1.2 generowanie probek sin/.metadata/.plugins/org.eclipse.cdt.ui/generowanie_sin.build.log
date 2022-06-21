@@ -1,0 +1,10 @@
+19:14:33 **** Incremental Build of configuration DebugFLASH for project generowanie_sin ****
+make -j8 all 
+arm-none-eabi-size   generowanie_sin.elf 
+   text	   data	    bss	    dec	    hex	filename
+  38048	    488	   2048	  40584	   9e88	generowanie_sin.elf
+Finished building: default.size.stdout
+ 
+
+19:14:33 Build Finished. 0 errors, 0 warnings. (took 440ms)
+

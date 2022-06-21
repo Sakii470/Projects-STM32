@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;3.1.4 Poprawa/BasicDisplayHAL.ioc&apos; to &apos;3.1.4 Poprawa.ioc&apos;" description="Rename resource &apos;BasicDisplayHAL.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="BasicDisplayHAL.ioc" name="3.1.4 Poprawa.ioc" stamp="1655652809612" updateReferences="true"/>
+</session>

@@ -1,0 +1,8 @@
+main.c:82:7:calc_pwm	24	static
+main.c:95:5:main	48	static
+main.c:203:6:SystemClock_Config	96	static
+main.c:249:6:HAL_SYSTICK_Callback	8	static
+main.c:254:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:260:6:HAL_TIM_IC_CaptureCallback	24	static
+main.c:272:6:HAL_ADC_LevelOutOfWindowcCallback	16	static
+main.c:281:6:Error_Handler	4	static,ignoring_inline_asm

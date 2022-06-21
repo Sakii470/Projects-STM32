@@ -1,0 +1,84 @@
+!SESSION 2022-03-28 22:31:17.034 -----------------------------------------------
+eclipse.buildId=Version 1.8.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-03-28 22:31:42.888
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-03-28 22:31:42.995
+!MESSAGE Log4j initialized with config file C:\Users\MSI PC\OneDrive\Pulpit\Nowy folder\lab 3\2.3.2\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-03-28 22:31:53.034
+!MESSAGE Started RMI Server, listening on port 41338
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-03-28 22:32:08.200
+!MESSAGE Indexed 'BasicInterfacesHAL' (31 sources, 114 headers) in 5.15 sec: 10,566 declarations; 49,974 references; 3 unresolved inclusions; 46 syntax errors; 171 unresolved names (0.28%)
+!SESSION 2022-03-29 09:37:56.537 -----------------------------------------------
+eclipse.buildId=Version 1.8.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-03-29 09:38:58.337
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-03-29 09:38:58.856
+!MESSAGE Log4j initialized with config file C:\Users\MSI PC\OneDrive\Pulpit\Nowy folder\lab 3\2.3.2\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-03-29 09:39:34.718
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-03-29 17:02:22.805 -----------------------------------------------
+eclipse.buildId=Version 1.8.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-03-29 17:03:53.998
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-03-29 17:03:54.391
+!MESSAGE Log4j initialized with config file C:\Users\MSI PC\OneDrive\Pulpit\Nowy folder\repozytoria dodatkowe zad\lab 3\3.1.1 polecenia z komputera\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-03-29 17:04:37.774
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-03-29 18:01:39.792 -----------------------------------------------
+eclipse.buildId=Version 1.8.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-03-29 18:01:53.883
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-03-29 18:01:53.993
+!MESSAGE Log4j initialized with config file C:\Users\MSI PC\OneDrive\Pulpit\Nowy folder\repozytoria dodatkowe zad\lab 3\3.1.2 funkcja sinus\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-03-29 18:02:05.661
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-06-19 19:04:17.765 -----------------------------------------------
+eclipse.buildId=Version 1.8.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-06-19 19:04:56.877
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-06-19 19:04:56.939
+!MESSAGE Log4j initialized with config file C:\Users\MSI PC\OneDrive\Pulpit\projekty STM\lab3\3.1.2 generowanie probek sin\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-06-19 19:05:08.582
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-19 19:05:56.414
+!MESSAGE Indexed 'generowanie_sin' (31 sources, 114 headers) in 4,16 sec: 10 585 declarations; 50 159 references; 3 unresolved inclusions; 46 syntax errors; 171 unresolved names (0,28%)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug.launch 2 0 2022-06-19 19:09:17.657
+!MESSAGE Won't launch debug session since we failed to locate the binary.

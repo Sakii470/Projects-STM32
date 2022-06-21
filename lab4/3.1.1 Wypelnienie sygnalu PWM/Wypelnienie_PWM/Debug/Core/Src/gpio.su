@@ -1,0 +1,13 @@
+gpio.c:39:6:LED_On	16	static
+gpio.c:45:6:LED_Off	16	static
+gpio.c:51:6:LED_Toggle	16	static
+gpio.c:57:6:LEDs_SetValue	24	static
+gpio.c:67:9:LEDs_GetValue	16	static
+gpio.c:97:10:SW_GetState	16	static
+gpio.c:108:10:SW_StateIsOK	16	static
+gpio.c:118:10:SW_GetStateLast	4	static
+gpio.c:122:9:SW_GetChange	4	static
+gpio.c:126:8:SW_GetHorizontal	4	static
+gpio.c:130:8:SW_GetVertical	4	static
+gpio.c:134:6:SW_SysTickCallback	16	static
+gpio.c:195:6:MX_GPIO_Init	56	static

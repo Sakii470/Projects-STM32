@@ -1,0 +1,5 @@
+display.c:39:6:SEG_SetSegment	16	static
+display.c:45:6:SEG_SetModule	16	static
+display.c:51:6:SEG_Callback	8	static
+display.c:64:6:SEG_DisplayDec	16	static
+display.c:95:6:BSP_SEG_DisplayFixedPoint	16	static

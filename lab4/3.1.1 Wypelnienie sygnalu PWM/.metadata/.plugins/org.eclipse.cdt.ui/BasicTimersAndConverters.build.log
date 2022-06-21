@@ -1,0 +1,10 @@
+18:43:19 **** Incremental Build of configuration Debug for project BasicTimersAndConverters ****
+make -j8 all 
+arm-none-eabi-size   BasicTimersAndConverters.elf 
+   text	   data	    bss	    dec	    hex	filename
+  32616	    236	   2196	  35048	   88e8	BasicTimersAndConverters.elf
+Finished building: default.size.stdout
+ 
+
+18:43:20 Build Finished. 0 errors, 0 warnings. (took 505ms)
+

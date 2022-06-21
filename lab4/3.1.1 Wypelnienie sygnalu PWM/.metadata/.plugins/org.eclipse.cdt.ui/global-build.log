@@ -1,0 +1,23 @@
+19:55:00 **** Incremental Build of configuration Debug for project Wypelnienie_PWM ****
+make -j8 all 
+arm-none-eabi-gcc -o "Wypelnienie_PWM.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\MSI PC\OneDrive\Pulpit\projekty STM\lab4\3.1.1 Wypelnienie sygnalu PWM\Wypelnienie_PWM\STM32L496ZGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Wypelnienie_PWM.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Wypelnienie_PWM.elf
+ 
+arm-none-eabi-size   Wypelnienie_PWM.elf 
+arm-none-eabi-objdump -h -S  Wypelnienie_PWM.elf  > "Wypelnienie_PWM.list"
+arm-none-eabi-objcopy  -O binary  Wypelnienie_PWM.elf  "Wypelnienie_PWM.bin"
+   text	   data	    bss	    dec	    hex	filename
+  32616	    236	   2196	  35048	   88e8	Wypelnienie_PWM.elf
+Finished building: default.size.stdout
+ 
+Finished building: Wypelnienie_PWM.bin
+ 
+Finished building: Wypelnienie_PWM.list
+ 
+19:55:22 **** Incremental Build of configuration Debug for project Wypelnienie_PWM ****
+make -j8 all 
+arm-none-eabi-size   Wypelnienie_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  32616	    236	   2196	  35048	   88e8	Wypelnienie_PWM.elf
+Finished building: default.size.stdout
+ 

@@ -1,0 +1,21 @@
+!SESSION 2022-06-19 17:23:57.572 -----------------------------------------------
+eclipse.buildId=Version 1.8.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-06-19 17:24:49.052
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-06-19 17:24:49.286
+!MESSAGE Log4j initialized with config file C:\Users\MSI PC\OneDrive\Pulpit\projekty STM\lab2\3.1.4 liczby format szesnastkowy\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-06-19 17:25:06.620
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-19 17:31:25.432
+!MESSAGE Indexed '3.1.4 Poprawa' (23 sources, 82 headers) in 11.4 sec: 5,722 declarations; 33,510 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0051%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-19 17:32:08.181
+!MESSAGE Indexed 'BasicDisplayHAL' (25 sources, 110 headers) in 4.57 sec: 10,170 declarations; 43,881 references; 3 unresolved inclusions; 46 syntax errors; 171 unresolved names (0.32%)

@@ -1,0 +1,6 @@
+sensor.c:32:9:LM75_ReadRed8	40	static
+sensor.c:40:10:LM75_ReadReg16	40	static
+sensor.c:48:9:TEMP_GetTempI	8	static
+sensor.c:52:7:TEMP_GetTempF	8	static
+sensor.c:57:19:ACC_LSM303C_Init	40	static
+sensor.c:77:6:ACC_LSM303C_ReadXYZ	32	static

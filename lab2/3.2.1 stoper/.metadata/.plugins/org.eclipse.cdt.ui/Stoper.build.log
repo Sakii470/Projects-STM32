@@ -1,0 +1,20 @@
+18:29:20 **** Incremental Build of configuration Debug for project Stoper ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32L496xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "Stoper.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\MSI PC\OneDrive\Pulpit\projekty STM\lab2\3.2.1 stoper\Stoper\STM32L496ZGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Stoper.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Stoper.elf
+ 
+arm-none-eabi-size   Stoper.elf 
+arm-none-eabi-objdump -h -S  Stoper.elf  > "Stoper.list"
+arm-none-eabi-objcopy  -O binary  Stoper.elf  "Stoper.bin"
+   text	   data	    bss	    dec	    hex	filename
+   8412	     88	   1584	  10084	   2764	Stoper.elf
+Finished building: default.size.stdout
+ 
+Finished building: Stoper.bin
+ 
+Finished building: Stoper.list
+ 
+
+18:29:21 Build Finished. 0 errors, 0 warnings. (took 1s.578ms)
+

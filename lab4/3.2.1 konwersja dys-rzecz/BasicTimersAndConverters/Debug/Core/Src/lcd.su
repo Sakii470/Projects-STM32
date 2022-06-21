@@ -1,0 +1,17 @@
+lcd.c:32:13:LCD_Write	24	static
+lcd.c:45:16:LCD_Read	16	static
+lcd.c:60:16:LCD_ReadStatus	32	static
+lcd.c:90:13:LCD_Cmd	16	static
+lcd.c:99:13:LCD_Data	16	static
+lcd.c:108:6:LCD_BacklightOn	8	static
+lcd.c:113:6:LCD_BacklightOff	8	static
+lcd.c:118:6:LCD_Clear	8	static
+lcd.c:123:6:LCD_Init	8	static
+lcd.c:144:6:LCD_GoTo	16	static
+lcd.c:161:6:LCD_WriteTextXY	16	static
+lcd.c:168:6:LCD_WriteText	16	static
+lcd.c:173:6:LCD_WriteFormatInt	24	static
+lcd.c:179:6:LCD_SetUserChar	16	static
+lcd.c:187:6:LCD_WriteBinary	24	static
+lcd.c:195:6:LCD_ShiftLeft	8	static
+lcd.c:199:6:LCD_ShiftRight	8	static
