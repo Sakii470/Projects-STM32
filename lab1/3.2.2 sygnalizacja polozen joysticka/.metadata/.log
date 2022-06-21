@@ -1,0 +1,21 @@
+!SESSION 2022-04-07 23:05:31.397 -----------------------------------------------
+eclipse.buildId=Version 1.8.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-04-07 23:05:53.388
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-04-07 23:05:53.451
+!MESSAGE Log4j initialized with config file C:\Users\MSI PC\OneDrive\Pulpit\Nowy folder\repozytoria dodatkowe zad\lab 1\3.2.2 joystick\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-04-07 23:05:56.918
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-04-07 23:06:21.568
+!MESSAGE Indexed 'BasicProjectHAL' (23 sources, 104 headers) in 4,28 sec: 9 810 declarations; 42 876 references; 3 unresolved inclusions; 46 syntax errors; 171 unresolved names (0,32%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-04-07 23:08:28.212
+!MESSAGE Indexed 'zad.3.2.2' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)

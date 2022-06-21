@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BasicProjectHAL&apos; to &apos;zad.3.2.2&apos;" description="Rename resource &apos;BasicProjectHAL&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/BasicProjectHAL" name="zad.3.2.2" stamp="1649365707905" updateReferences="true"/>
+</session>
